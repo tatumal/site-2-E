@@ -32,3 +32,28 @@
 .escola-titulo{
     padding: 24px 0;
 }
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+
+}
+.cabecalho-lista-item a{
+    text-decoration: none; 
+    color: white;
+}
